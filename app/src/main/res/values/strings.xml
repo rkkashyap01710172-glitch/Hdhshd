@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CapCut Agent</string>
+    <string name="accessibility_service_name">CapCut AI Automation Service</string>
+    <string name="accessibility_service_description">Enables automated video editing actions, smart timeline scrubbing, and macro execution in CapCut.</string>
+</resources>

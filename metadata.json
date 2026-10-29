@@ -1,0 +1,6 @@
+{
+  "name": "CapCut AI Agent",
+  "description": "Smart video editing automation agent and macro studio for CapCut with timeline gesture scrubbing, auto caption triggers, and workflow templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
